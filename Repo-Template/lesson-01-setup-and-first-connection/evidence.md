@@ -18,6 +18,9 @@
 
 ## Understanding check (answer in your own words)
 1. What is the difference between Python and SQLite?
+
+The difference between python and SQLite is th
+
 2. What file was created when the script ran?
 3. What does the connection do?
 
