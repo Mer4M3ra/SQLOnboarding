@@ -10,7 +10,7 @@
 - Terminal output pasted below:
 
 ## What I changed from the starter example
-- 
+
 
 ## Error and fix
 - Error I hit:
